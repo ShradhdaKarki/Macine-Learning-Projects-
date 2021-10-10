@@ -1,2 +1,2 @@
-# Macine-Learning-Perceptron
-In python
+# Applied Machine Learning
+Jupyter Notebook
