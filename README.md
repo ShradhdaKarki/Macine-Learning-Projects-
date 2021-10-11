@@ -1,2 +1,5 @@
 # Applied Machine Learning
-Jupyter Notebook
+
+Practical perspectives and applications of machine learning methods and techniques 
+
+**Jupyter Notebook**
